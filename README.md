@@ -1,6 +1,7 @@
 # <center>Airbnb Listings Report - New York City</center>
 This report comprehensively analyzes Airbnb listings in New York City, focusing on availability, pricing, reviews, and other key metrics. Below are the details based on the visuals presented:
 
+## Report summary
 -  ## Report Highlights
 
         Average Availability: 112.22 days
